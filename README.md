@@ -2,6 +2,11 @@
 
 # Event Handling made simple
 
+[![dotnet](https://github.com/fabiolune/event-handling/actions/workflows/main.yml/badge.svg)](https://github.com/fabiolune/event-handling/actions/workflows/main.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fabiolune_event-handling&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=fabiolune_event-handling)
+[![codecov](https://codecov.io/gh/fabiolune/event-handling/graph/badge.svg?token=5F5UAWQ8K7)](https://codecov.io/gh/fabiolune/event-handling)
+[![Mutation testing badge](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fbadge-api.stryker-mutator.io%2Fgithub.com%2Ffabiolune%2Fevent-handling%2Fmain)](https://dashboard.stryker-mutator.io/reports/github.com/fabiolune/event-handling/main)
+
 A collection of lightweight, functional C# libraries for building event-driven pipelines. All processing results are expressed as `EitherAsync<Error, Unit>` (via [LanguageExt](https://github.com/louthy/language-ext)), keeping the pipelines composable and exception-free by design.
 
 ## Libraries
