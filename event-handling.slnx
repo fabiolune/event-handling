@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/tests/">
+    <Project Path="tests/Fl.Event.Handling.Extensions.Tests/Fl.Event.Handling.Extensions.Tests.csproj" />
+    <Project Path="tests/Fl.Event.Handling.Tests/Fl.Event.Handling.Tests.csproj" />
+  </Folder>
+  <Project Path="Fl.Event.Handling.Extensions/Fl.Event.Handling.Extensions.csproj" />
+  <Project Path="Fl.Event.Handling/Fl.Event.Handling.csproj" />
+</Solution>
