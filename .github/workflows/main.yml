@@ -184,7 +184,7 @@ jobs:
           echo "" >> docs/index.md
           echo "repo url: [${{ github.server_url }}/${{ github.repository }}](${{ github.server_url }}/${{ github.repository }})" >> docs/index.md
           echo "" >> docs/index.md
-          tail -n +4 README.md >> docs/index.md
+          tail -n +3 README.md >> docs/index.md
           cp Fl.Event.Handling/README.md docs/docs/fl-event-handling.md
           cp Fl.Event.Handling.Extensions/README.md docs/docs/fl-event-handling-extensions.md
           docfx docs/docfx.json
