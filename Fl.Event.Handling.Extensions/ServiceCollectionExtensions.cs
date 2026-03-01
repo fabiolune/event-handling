@@ -39,7 +39,7 @@ public static class ServiceCollectionExtensions
             .Scan(scan => 
                 scan
                     .FromAssemblies(assembly)
-                    .AddClasses(cl => cl.AssignableTo(typeof(IEventHandler<TEvent>)))
+                    .AddClasses(cl => cl.AssignableTo<IEventHandler<TEvent>>())
                     .As<IEventHandler<TEvent>>()
                     .WithSingletonLifetime());
 }
