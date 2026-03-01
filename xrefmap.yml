@@ -1,0 +1,287 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Fl.Event.Handling
+  name: Fl.Event.Handling
+  href: api/Fl.Event.Handling.html
+  commentId: N:Fl.Event.Handling
+  fullName: Fl.Event.Handling
+  nameWithType: Fl.Event.Handling
+- uid: Fl.Event.Handling.ExceptionCatcherEventProcessor`1
+  name: ExceptionCatcherEventProcessor<TEvent>
+  href: api/Fl.Event.Handling.ExceptionCatcherEventProcessor-1.html
+  commentId: T:Fl.Event.Handling.ExceptionCatcherEventProcessor`1
+  name.vb: ExceptionCatcherEventProcessor(Of TEvent)
+  fullName: Fl.Event.Handling.ExceptionCatcherEventProcessor<TEvent>
+  fullName.vb: Fl.Event.Handling.ExceptionCatcherEventProcessor(Of TEvent)
+  nameWithType: ExceptionCatcherEventProcessor<TEvent>
+  nameWithType.vb: ExceptionCatcherEventProcessor(Of TEvent)
+- uid: Fl.Event.Handling.ExceptionCatcherEventProcessor`1.#ctor(Fl.Event.Handling.IEventProcessor{`0})
+  name: ExceptionCatcherEventProcessor(IEventProcessor<TEvent>)
+  href: api/Fl.Event.Handling.ExceptionCatcherEventProcessor-1.html#Fl_Event_Handling_ExceptionCatcherEventProcessor_1__ctor_Fl_Event_Handling_IEventProcessor__0__
+  commentId: M:Fl.Event.Handling.ExceptionCatcherEventProcessor`1.#ctor(Fl.Event.Handling.IEventProcessor{`0})
+  name.vb: New(IEventProcessor(Of TEvent))
+  fullName: Fl.Event.Handling.ExceptionCatcherEventProcessor<TEvent>.ExceptionCatcherEventProcessor(Fl.Event.Handling.IEventProcessor<TEvent>)
+  fullName.vb: Fl.Event.Handling.ExceptionCatcherEventProcessor(Of TEvent).New(Fl.Event.Handling.IEventProcessor(Of TEvent))
+  nameWithType: ExceptionCatcherEventProcessor<TEvent>.ExceptionCatcherEventProcessor(IEventProcessor<TEvent>)
+  nameWithType.vb: ExceptionCatcherEventProcessor(Of TEvent).New(IEventProcessor(Of TEvent))
+- uid: Fl.Event.Handling.ExceptionCatcherEventProcessor`1.#ctor*
+  name: ExceptionCatcherEventProcessor
+  href: api/Fl.Event.Handling.ExceptionCatcherEventProcessor-1.html#Fl_Event_Handling_ExceptionCatcherEventProcessor_1__ctor_
+  commentId: Overload:Fl.Event.Handling.ExceptionCatcherEventProcessor`1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Fl.Event.Handling.ExceptionCatcherEventProcessor<TEvent>.ExceptionCatcherEventProcessor
+  fullName.vb: Fl.Event.Handling.ExceptionCatcherEventProcessor(Of TEvent).New
+  nameWithType: ExceptionCatcherEventProcessor<TEvent>.ExceptionCatcherEventProcessor
+  nameWithType.vb: ExceptionCatcherEventProcessor(Of TEvent).New
+- uid: Fl.Event.Handling.ExceptionCatcherEventProcessor`1.ProcessAsync(`0)
+  name: ProcessAsync(TEvent)
+  href: api/Fl.Event.Handling.ExceptionCatcherEventProcessor-1.html#Fl_Event_Handling_ExceptionCatcherEventProcessor_1_ProcessAsync__0_
+  commentId: M:Fl.Event.Handling.ExceptionCatcherEventProcessor`1.ProcessAsync(`0)
+  fullName: Fl.Event.Handling.ExceptionCatcherEventProcessor<TEvent>.ProcessAsync(TEvent)
+  fullName.vb: Fl.Event.Handling.ExceptionCatcherEventProcessor(Of TEvent).ProcessAsync(TEvent)
+  nameWithType: ExceptionCatcherEventProcessor<TEvent>.ProcessAsync(TEvent)
+  nameWithType.vb: ExceptionCatcherEventProcessor(Of TEvent).ProcessAsync(TEvent)
+- uid: Fl.Event.Handling.ExceptionCatcherEventProcessor`1.ProcessAsync*
+  name: ProcessAsync
+  href: api/Fl.Event.Handling.ExceptionCatcherEventProcessor-1.html#Fl_Event_Handling_ExceptionCatcherEventProcessor_1_ProcessAsync_
+  commentId: Overload:Fl.Event.Handling.ExceptionCatcherEventProcessor`1.ProcessAsync
+  isSpec: "True"
+  fullName: Fl.Event.Handling.ExceptionCatcherEventProcessor<TEvent>.ProcessAsync
+  fullName.vb: Fl.Event.Handling.ExceptionCatcherEventProcessor(Of TEvent).ProcessAsync
+  nameWithType: ExceptionCatcherEventProcessor<TEvent>.ProcessAsync
+  nameWithType.vb: ExceptionCatcherEventProcessor(Of TEvent).ProcessAsync
+- uid: Fl.Event.Handling.Extensions
+  name: Fl.Event.Handling.Extensions
+  href: api/Fl.Event.Handling.Extensions.html
+  commentId: N:Fl.Event.Handling.Extensions
+  fullName: Fl.Event.Handling.Extensions
+  nameWithType: Fl.Event.Handling.Extensions
+- uid: Fl.Event.Handling.Extensions.EventHandlingStrategy
+  name: EventHandlingStrategy
+  href: api/Fl.Event.Handling.Extensions.EventHandlingStrategy.html
+  commentId: T:Fl.Event.Handling.Extensions.EventHandlingStrategy
+  fullName: Fl.Event.Handling.Extensions.EventHandlingStrategy
+  nameWithType: EventHandlingStrategy
+- uid: Fl.Event.Handling.Extensions.EventHandlingStrategy.Parallel
+  name: Parallel
+  href: api/Fl.Event.Handling.Extensions.EventHandlingStrategy.html#Fl_Event_Handling_Extensions_EventHandlingStrategy_Parallel
+  commentId: F:Fl.Event.Handling.Extensions.EventHandlingStrategy.Parallel
+  fullName: Fl.Event.Handling.Extensions.EventHandlingStrategy.Parallel
+  nameWithType: EventHandlingStrategy.Parallel
+- uid: Fl.Event.Handling.Extensions.EventHandlingStrategy.Sequential
+  name: Sequential
+  href: api/Fl.Event.Handling.Extensions.EventHandlingStrategy.html#Fl_Event_Handling_Extensions_EventHandlingStrategy_Sequential
+  commentId: F:Fl.Event.Handling.Extensions.EventHandlingStrategy.Sequential
+  fullName: Fl.Event.Handling.Extensions.EventHandlingStrategy.Sequential
+  nameWithType: EventHandlingStrategy.Sequential
+- uid: Fl.Event.Handling.Extensions.ServiceCollectionExtensions
+  name: ServiceCollectionExtensions
+  href: api/Fl.Event.Handling.Extensions.ServiceCollectionExtensions.html
+  commentId: T:Fl.Event.Handling.Extensions.ServiceCollectionExtensions
+  fullName: Fl.Event.Handling.Extensions.ServiceCollectionExtensions
+  nameWithType: ServiceCollectionExtensions
+- uid: Fl.Event.Handling.Extensions.ServiceCollectionExtensions.AddEventHandling*
+  name: AddEventHandling
+  href: api/Fl.Event.Handling.Extensions.ServiceCollectionExtensions.html#Fl_Event_Handling_Extensions_ServiceCollectionExtensions_AddEventHandling_
+  commentId: Overload:Fl.Event.Handling.Extensions.ServiceCollectionExtensions.AddEventHandling
+  isSpec: "True"
+  fullName: Fl.Event.Handling.Extensions.ServiceCollectionExtensions.AddEventHandling
+  nameWithType: ServiceCollectionExtensions.AddEventHandling
+- uid: Fl.Event.Handling.Extensions.ServiceCollectionExtensions.AddEventHandling``1(Microsoft.Extensions.DependencyInjection.IServiceCollection,Fl.Event.Handling.Extensions.EventHandlingStrategy,System.Reflection.Assembly)
+  name: AddEventHandling<TEvent>(IServiceCollection, EventHandlingStrategy, Assembly)
+  href: api/Fl.Event.Handling.Extensions.ServiceCollectionExtensions.html#Fl_Event_Handling_Extensions_ServiceCollectionExtensions_AddEventHandling__1_Microsoft_Extensions_DependencyInjection_IServiceCollection_Fl_Event_Handling_Extensions_EventHandlingStrategy_System_Reflection_Assembly_
+  commentId: M:Fl.Event.Handling.Extensions.ServiceCollectionExtensions.AddEventHandling``1(Microsoft.Extensions.DependencyInjection.IServiceCollection,Fl.Event.Handling.Extensions.EventHandlingStrategy,System.Reflection.Assembly)
+  name.vb: AddEventHandling(Of TEvent)(IServiceCollection, EventHandlingStrategy, Assembly)
+  fullName: Fl.Event.Handling.Extensions.ServiceCollectionExtensions.AddEventHandling<TEvent>(Microsoft.Extensions.DependencyInjection.IServiceCollection, Fl.Event.Handling.Extensions.EventHandlingStrategy, System.Reflection.Assembly)
+  fullName.vb: Fl.Event.Handling.Extensions.ServiceCollectionExtensions.AddEventHandling(Of TEvent)(Microsoft.Extensions.DependencyInjection.IServiceCollection, Fl.Event.Handling.Extensions.EventHandlingStrategy, System.Reflection.Assembly)
+  nameWithType: ServiceCollectionExtensions.AddEventHandling<TEvent>(IServiceCollection, EventHandlingStrategy, Assembly)
+  nameWithType.vb: ServiceCollectionExtensions.AddEventHandling(Of TEvent)(IServiceCollection, EventHandlingStrategy, Assembly)
+- uid: Fl.Event.Handling.IEventHandler`1
+  name: IEventHandler<TEvent>
+  href: api/Fl.Event.Handling.IEventHandler-1.html
+  commentId: T:Fl.Event.Handling.IEventHandler`1
+  name.vb: IEventHandler(Of TEvent)
+  fullName: Fl.Event.Handling.IEventHandler<TEvent>
+  fullName.vb: Fl.Event.Handling.IEventHandler(Of TEvent)
+  nameWithType: IEventHandler<TEvent>
+  nameWithType.vb: IEventHandler(Of TEvent)
+- uid: Fl.Event.Handling.IEventHandler`1.HandleAsync(`0)
+  name: HandleAsync(TEvent)
+  href: api/Fl.Event.Handling.IEventHandler-1.html#Fl_Event_Handling_IEventHandler_1_HandleAsync__0_
+  commentId: M:Fl.Event.Handling.IEventHandler`1.HandleAsync(`0)
+  fullName: Fl.Event.Handling.IEventHandler<TEvent>.HandleAsync(TEvent)
+  fullName.vb: Fl.Event.Handling.IEventHandler(Of TEvent).HandleAsync(TEvent)
+  nameWithType: IEventHandler<TEvent>.HandleAsync(TEvent)
+  nameWithType.vb: IEventHandler(Of TEvent).HandleAsync(TEvent)
+- uid: Fl.Event.Handling.IEventHandler`1.HandleAsync*
+  name: HandleAsync
+  href: api/Fl.Event.Handling.IEventHandler-1.html#Fl_Event_Handling_IEventHandler_1_HandleAsync_
+  commentId: Overload:Fl.Event.Handling.IEventHandler`1.HandleAsync
+  isSpec: "True"
+  fullName: Fl.Event.Handling.IEventHandler<TEvent>.HandleAsync
+  fullName.vb: Fl.Event.Handling.IEventHandler(Of TEvent).HandleAsync
+  nameWithType: IEventHandler<TEvent>.HandleAsync
+  nameWithType.vb: IEventHandler(Of TEvent).HandleAsync
+- uid: Fl.Event.Handling.IEventProcessor`1
+  name: IEventProcessor<TEvent>
+  href: api/Fl.Event.Handling.IEventProcessor-1.html
+  commentId: T:Fl.Event.Handling.IEventProcessor`1
+  name.vb: IEventProcessor(Of TEvent)
+  fullName: Fl.Event.Handling.IEventProcessor<TEvent>
+  fullName.vb: Fl.Event.Handling.IEventProcessor(Of TEvent)
+  nameWithType: IEventProcessor<TEvent>
+  nameWithType.vb: IEventProcessor(Of TEvent)
+- uid: Fl.Event.Handling.IEventProcessor`1.ProcessAsync(`0)
+  name: ProcessAsync(TEvent)
+  href: api/Fl.Event.Handling.IEventProcessor-1.html#Fl_Event_Handling_IEventProcessor_1_ProcessAsync__0_
+  commentId: M:Fl.Event.Handling.IEventProcessor`1.ProcessAsync(`0)
+  fullName: Fl.Event.Handling.IEventProcessor<TEvent>.ProcessAsync(TEvent)
+  fullName.vb: Fl.Event.Handling.IEventProcessor(Of TEvent).ProcessAsync(TEvent)
+  nameWithType: IEventProcessor<TEvent>.ProcessAsync(TEvent)
+  nameWithType.vb: IEventProcessor(Of TEvent).ProcessAsync(TEvent)
+- uid: Fl.Event.Handling.IEventProcessor`1.ProcessAsync*
+  name: ProcessAsync
+  href: api/Fl.Event.Handling.IEventProcessor-1.html#Fl_Event_Handling_IEventProcessor_1_ProcessAsync_
+  commentId: Overload:Fl.Event.Handling.IEventProcessor`1.ProcessAsync
+  isSpec: "True"
+  fullName: Fl.Event.Handling.IEventProcessor<TEvent>.ProcessAsync
+  fullName.vb: Fl.Event.Handling.IEventProcessor(Of TEvent).ProcessAsync
+  nameWithType: IEventProcessor<TEvent>.ProcessAsync
+  nameWithType.vb: IEventProcessor(Of TEvent).ProcessAsync
+- uid: Fl.Event.Handling.LoggingEventProcessor`1
+  name: LoggingEventProcessor<TEvent>
+  href: api/Fl.Event.Handling.LoggingEventProcessor-1.html
+  commentId: T:Fl.Event.Handling.LoggingEventProcessor`1
+  name.vb: LoggingEventProcessor(Of TEvent)
+  fullName: Fl.Event.Handling.LoggingEventProcessor<TEvent>
+  fullName.vb: Fl.Event.Handling.LoggingEventProcessor(Of TEvent)
+  nameWithType: LoggingEventProcessor<TEvent>
+  nameWithType.vb: LoggingEventProcessor(Of TEvent)
+- uid: Fl.Event.Handling.LoggingEventProcessor`1.#ctor(Fl.Event.Handling.IEventProcessor{`0},Serilog.ILogger)
+  name: LoggingEventProcessor(IEventProcessor<TEvent>, ILogger)
+  href: api/Fl.Event.Handling.LoggingEventProcessor-1.html#Fl_Event_Handling_LoggingEventProcessor_1__ctor_Fl_Event_Handling_IEventProcessor__0__Serilog_ILogger_
+  commentId: M:Fl.Event.Handling.LoggingEventProcessor`1.#ctor(Fl.Event.Handling.IEventProcessor{`0},Serilog.ILogger)
+  name.vb: New(IEventProcessor(Of TEvent), ILogger)
+  fullName: Fl.Event.Handling.LoggingEventProcessor<TEvent>.LoggingEventProcessor(Fl.Event.Handling.IEventProcessor<TEvent>, Serilog.ILogger)
+  fullName.vb: Fl.Event.Handling.LoggingEventProcessor(Of TEvent).New(Fl.Event.Handling.IEventProcessor(Of TEvent), Serilog.ILogger)
+  nameWithType: LoggingEventProcessor<TEvent>.LoggingEventProcessor(IEventProcessor<TEvent>, ILogger)
+  nameWithType.vb: LoggingEventProcessor(Of TEvent).New(IEventProcessor(Of TEvent), ILogger)
+- uid: Fl.Event.Handling.LoggingEventProcessor`1.#ctor*
+  name: LoggingEventProcessor
+  href: api/Fl.Event.Handling.LoggingEventProcessor-1.html#Fl_Event_Handling_LoggingEventProcessor_1__ctor_
+  commentId: Overload:Fl.Event.Handling.LoggingEventProcessor`1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Fl.Event.Handling.LoggingEventProcessor<TEvent>.LoggingEventProcessor
+  fullName.vb: Fl.Event.Handling.LoggingEventProcessor(Of TEvent).New
+  nameWithType: LoggingEventProcessor<TEvent>.LoggingEventProcessor
+  nameWithType.vb: LoggingEventProcessor(Of TEvent).New
+- uid: Fl.Event.Handling.LoggingEventProcessor`1.ProcessAsync(`0)
+  name: ProcessAsync(TEvent)
+  href: api/Fl.Event.Handling.LoggingEventProcessor-1.html#Fl_Event_Handling_LoggingEventProcessor_1_ProcessAsync__0_
+  commentId: M:Fl.Event.Handling.LoggingEventProcessor`1.ProcessAsync(`0)
+  fullName: Fl.Event.Handling.LoggingEventProcessor<TEvent>.ProcessAsync(TEvent)
+  fullName.vb: Fl.Event.Handling.LoggingEventProcessor(Of TEvent).ProcessAsync(TEvent)
+  nameWithType: LoggingEventProcessor<TEvent>.ProcessAsync(TEvent)
+  nameWithType.vb: LoggingEventProcessor(Of TEvent).ProcessAsync(TEvent)
+- uid: Fl.Event.Handling.LoggingEventProcessor`1.ProcessAsync*
+  name: ProcessAsync
+  href: api/Fl.Event.Handling.LoggingEventProcessor-1.html#Fl_Event_Handling_LoggingEventProcessor_1_ProcessAsync_
+  commentId: Overload:Fl.Event.Handling.LoggingEventProcessor`1.ProcessAsync
+  isSpec: "True"
+  fullName: Fl.Event.Handling.LoggingEventProcessor<TEvent>.ProcessAsync
+  fullName.vb: Fl.Event.Handling.LoggingEventProcessor(Of TEvent).ProcessAsync
+  nameWithType: LoggingEventProcessor<TEvent>.ProcessAsync
+  nameWithType.vb: LoggingEventProcessor(Of TEvent).ProcessAsync
+- uid: Fl.Event.Handling.ParallelEventProcessor`1
+  name: ParallelEventProcessor<T>
+  href: api/Fl.Event.Handling.ParallelEventProcessor-1.html
+  commentId: T:Fl.Event.Handling.ParallelEventProcessor`1
+  name.vb: ParallelEventProcessor(Of T)
+  fullName: Fl.Event.Handling.ParallelEventProcessor<T>
+  fullName.vb: Fl.Event.Handling.ParallelEventProcessor(Of T)
+  nameWithType: ParallelEventProcessor<T>
+  nameWithType.vb: ParallelEventProcessor(Of T)
+- uid: Fl.Event.Handling.ParallelEventProcessor`1.#ctor(System.Collections.Generic.IEnumerable{Fl.Event.Handling.IEventHandler{`0}})
+  name: ParallelEventProcessor(IEnumerable<IEventHandler<T>>)
+  href: api/Fl.Event.Handling.ParallelEventProcessor-1.html#Fl_Event_Handling_ParallelEventProcessor_1__ctor_System_Collections_Generic_IEnumerable_Fl_Event_Handling_IEventHandler__0___
+  commentId: M:Fl.Event.Handling.ParallelEventProcessor`1.#ctor(System.Collections.Generic.IEnumerable{Fl.Event.Handling.IEventHandler{`0}})
+  name.vb: New(IEnumerable(Of IEventHandler(Of T)))
+  fullName: Fl.Event.Handling.ParallelEventProcessor<T>.ParallelEventProcessor(System.Collections.Generic.IEnumerable<Fl.Event.Handling.IEventHandler<T>>)
+  fullName.vb: Fl.Event.Handling.ParallelEventProcessor(Of T).New(System.Collections.Generic.IEnumerable(Of Fl.Event.Handling.IEventHandler(Of T)))
+  nameWithType: ParallelEventProcessor<T>.ParallelEventProcessor(IEnumerable<IEventHandler<T>>)
+  nameWithType.vb: ParallelEventProcessor(Of T).New(IEnumerable(Of IEventHandler(Of T)))
+- uid: Fl.Event.Handling.ParallelEventProcessor`1.#ctor*
+  name: ParallelEventProcessor
+  href: api/Fl.Event.Handling.ParallelEventProcessor-1.html#Fl_Event_Handling_ParallelEventProcessor_1__ctor_
+  commentId: Overload:Fl.Event.Handling.ParallelEventProcessor`1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Fl.Event.Handling.ParallelEventProcessor<T>.ParallelEventProcessor
+  fullName.vb: Fl.Event.Handling.ParallelEventProcessor(Of T).New
+  nameWithType: ParallelEventProcessor<T>.ParallelEventProcessor
+  nameWithType.vb: ParallelEventProcessor(Of T).New
+- uid: Fl.Event.Handling.ParallelEventProcessor`1.ProcessAsync(`0)
+  name: ProcessAsync(T)
+  href: api/Fl.Event.Handling.ParallelEventProcessor-1.html#Fl_Event_Handling_ParallelEventProcessor_1_ProcessAsync__0_
+  commentId: M:Fl.Event.Handling.ParallelEventProcessor`1.ProcessAsync(`0)
+  fullName: Fl.Event.Handling.ParallelEventProcessor<T>.ProcessAsync(T)
+  fullName.vb: Fl.Event.Handling.ParallelEventProcessor(Of T).ProcessAsync(T)
+  nameWithType: ParallelEventProcessor<T>.ProcessAsync(T)
+  nameWithType.vb: ParallelEventProcessor(Of T).ProcessAsync(T)
+- uid: Fl.Event.Handling.ParallelEventProcessor`1.ProcessAsync*
+  name: ProcessAsync
+  href: api/Fl.Event.Handling.ParallelEventProcessor-1.html#Fl_Event_Handling_ParallelEventProcessor_1_ProcessAsync_
+  commentId: Overload:Fl.Event.Handling.ParallelEventProcessor`1.ProcessAsync
+  isSpec: "True"
+  fullName: Fl.Event.Handling.ParallelEventProcessor<T>.ProcessAsync
+  fullName.vb: Fl.Event.Handling.ParallelEventProcessor(Of T).ProcessAsync
+  nameWithType: ParallelEventProcessor<T>.ProcessAsync
+  nameWithType.vb: ParallelEventProcessor(Of T).ProcessAsync
+- uid: Fl.Event.Handling.SequentialEventProcessor`1
+  name: SequentialEventProcessor<T>
+  href: api/Fl.Event.Handling.SequentialEventProcessor-1.html
+  commentId: T:Fl.Event.Handling.SequentialEventProcessor`1
+  name.vb: SequentialEventProcessor(Of T)
+  fullName: Fl.Event.Handling.SequentialEventProcessor<T>
+  fullName.vb: Fl.Event.Handling.SequentialEventProcessor(Of T)
+  nameWithType: SequentialEventProcessor<T>
+  nameWithType.vb: SequentialEventProcessor(Of T)
+- uid: Fl.Event.Handling.SequentialEventProcessor`1.#ctor(System.Collections.Generic.IEnumerable{Fl.Event.Handling.IEventHandler{`0}})
+  name: SequentialEventProcessor(IEnumerable<IEventHandler<T>>)
+  href: api/Fl.Event.Handling.SequentialEventProcessor-1.html#Fl_Event_Handling_SequentialEventProcessor_1__ctor_System_Collections_Generic_IEnumerable_Fl_Event_Handling_IEventHandler__0___
+  commentId: M:Fl.Event.Handling.SequentialEventProcessor`1.#ctor(System.Collections.Generic.IEnumerable{Fl.Event.Handling.IEventHandler{`0}})
+  name.vb: New(IEnumerable(Of IEventHandler(Of T)))
+  fullName: Fl.Event.Handling.SequentialEventProcessor<T>.SequentialEventProcessor(System.Collections.Generic.IEnumerable<Fl.Event.Handling.IEventHandler<T>>)
+  fullName.vb: Fl.Event.Handling.SequentialEventProcessor(Of T).New(System.Collections.Generic.IEnumerable(Of Fl.Event.Handling.IEventHandler(Of T)))
+  nameWithType: SequentialEventProcessor<T>.SequentialEventProcessor(IEnumerable<IEventHandler<T>>)
+  nameWithType.vb: SequentialEventProcessor(Of T).New(IEnumerable(Of IEventHandler(Of T)))
+- uid: Fl.Event.Handling.SequentialEventProcessor`1.#ctor*
+  name: SequentialEventProcessor
+  href: api/Fl.Event.Handling.SequentialEventProcessor-1.html#Fl_Event_Handling_SequentialEventProcessor_1__ctor_
+  commentId: Overload:Fl.Event.Handling.SequentialEventProcessor`1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Fl.Event.Handling.SequentialEventProcessor<T>.SequentialEventProcessor
+  fullName.vb: Fl.Event.Handling.SequentialEventProcessor(Of T).New
+  nameWithType: SequentialEventProcessor<T>.SequentialEventProcessor
+  nameWithType.vb: SequentialEventProcessor(Of T).New
+- uid: Fl.Event.Handling.SequentialEventProcessor`1.ProcessAsync(`0)
+  name: ProcessAsync(T)
+  href: api/Fl.Event.Handling.SequentialEventProcessor-1.html#Fl_Event_Handling_SequentialEventProcessor_1_ProcessAsync__0_
+  commentId: M:Fl.Event.Handling.SequentialEventProcessor`1.ProcessAsync(`0)
+  fullName: Fl.Event.Handling.SequentialEventProcessor<T>.ProcessAsync(T)
+  fullName.vb: Fl.Event.Handling.SequentialEventProcessor(Of T).ProcessAsync(T)
+  nameWithType: SequentialEventProcessor<T>.ProcessAsync(T)
+  nameWithType.vb: SequentialEventProcessor(Of T).ProcessAsync(T)
+- uid: Fl.Event.Handling.SequentialEventProcessor`1.ProcessAsync*
+  name: ProcessAsync
+  href: api/Fl.Event.Handling.SequentialEventProcessor-1.html#Fl_Event_Handling_SequentialEventProcessor_1_ProcessAsync_
+  commentId: Overload:Fl.Event.Handling.SequentialEventProcessor`1.ProcessAsync
+  isSpec: "True"
+  fullName: Fl.Event.Handling.SequentialEventProcessor<T>.ProcessAsync
+  fullName.vb: Fl.Event.Handling.SequentialEventProcessor(Of T).ProcessAsync
+  nameWithType: SequentialEventProcessor<T>.ProcessAsync
+  nameWithType.vb: SequentialEventProcessor(Of T).ProcessAsync
