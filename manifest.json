@@ -1,0 +1,238 @@
+{
+  "source_base_path": "/home/runner/work/event-handling/event-handling/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Fl.Event.Handling.ExceptionCatcherEventProcessor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Fl.Event.Handling.ExceptionCatcherEventProcessor-1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Fl.Event.Handling.ExceptionCatcherEventProcessor<TEvent>",
+      "Summary": "<p sourcefile=\"api/Fl.Event.Handling.ExceptionCatcherEventProcessor-1.yml\" sourcestartlinenumber=\"1\">An <xref href=\"Fl.Event.Handling.IEventProcessor%601\" data-throw-if-not-resolved=\"false\"></xref> decorator that catches any unhandled exceptions thrown\nby the inner processor and converts them into <xref href=\"LanguageExt.Common.Error\" data-throw-if-not-resolved=\"false\"></xref> values.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Fl.Event.Handling.Extensions.EventHandlingStrategy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Fl.Event.Handling.Extensions.EventHandlingStrategy.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Fl.Event.Handling.Extensions.EventHandlingStrategy",
+      "Summary": "<p sourcefile=\"api/Fl.Event.Handling.Extensions.EventHandlingStrategy.yml\" sourcestartlinenumber=\"1\">Specifies the strategy used to dispatch events to their registered handlers.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Fl.Event.Handling.Extensions.ServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Fl.Event.Handling.Extensions.ServiceCollectionExtensions.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Fl.Event.Handling.Extensions.ServiceCollectionExtensions",
+      "Summary": "<p sourcefile=\"api/Fl.Event.Handling.Extensions.ServiceCollectionExtensions.yml\" sourcestartlinenumber=\"1\">Provides extension methods for registering event handling services with the\n<xref href=\"Microsoft.Extensions.DependencyInjection.IServiceCollection\" data-throw-if-not-resolved=\"false\"></xref> dependency injection container.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Fl.Event.Handling.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Fl.Event.Handling.Extensions.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Fl.Event.Handling.Extensions",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Fl.Event.Handling.IEventHandler-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Fl.Event.Handling.IEventHandler-1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Fl.Event.Handling.IEventHandler<TEvent>",
+      "Summary": "<p sourcefile=\"api/Fl.Event.Handling.IEventHandler-1.yml\" sourcestartlinenumber=\"1\">Defines a handler responsible for processing a single event of type <code class=\"typeparamref\">TEvent</code>.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Fl.Event.Handling.IEventProcessor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Fl.Event.Handling.IEventProcessor-1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Fl.Event.Handling.IEventProcessor<TEvent>",
+      "Summary": "<p sourcefile=\"api/Fl.Event.Handling.IEventProcessor-1.yml\" sourcestartlinenumber=\"1\">Defines a processor that orchestrates the handling of events of type <code class=\"typeparamref\">TEvent</code>.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Fl.Event.Handling.LoggingEventProcessor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Fl.Event.Handling.LoggingEventProcessor-1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Fl.Event.Handling.LoggingEventProcessor<TEvent>",
+      "Summary": "<p sourcefile=\"api/Fl.Event.Handling.LoggingEventProcessor-1.yml\" sourcestartlinenumber=\"1\">An <xref href=\"Fl.Event.Handling.IEventProcessor%601\" data-throw-if-not-resolved=\"false\"></xref> decorator that adds structured logging around the\ninner processor's execution using a Serilog <xref href=\"Serilog.ILogger\" data-throw-if-not-resolved=\"false\"></xref>.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Fl.Event.Handling.ParallelEventProcessor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Fl.Event.Handling.ParallelEventProcessor-1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Fl.Event.Handling.ParallelEventProcessor<T>",
+      "Summary": "<p sourcefile=\"api/Fl.Event.Handling.ParallelEventProcessor-1.yml\" sourcestartlinenumber=\"1\">An <xref href=\"Fl.Event.Handling.IEventProcessor%601\" data-throw-if-not-resolved=\"false\"></xref> that dispatches an event to all registered\n<xref href=\"Fl.Event.Handling.IEventHandler%601\" data-throw-if-not-resolved=\"false\"></xref> instances concurrently.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Fl.Event.Handling.SequentialEventProcessor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Fl.Event.Handling.SequentialEventProcessor-1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Fl.Event.Handling.SequentialEventProcessor<T>",
+      "Summary": "<p sourcefile=\"api/Fl.Event.Handling.SequentialEventProcessor-1.yml\" sourcestartlinenumber=\"1\">An <xref href=\"Fl.Event.Handling.IEventProcessor%601\" data-throw-if-not-resolved=\"false\"></xref> that dispatches an event to all registered\n<xref href=\"Fl.Event.Handling.IEventHandler%601\" data-throw-if-not-resolved=\"false\"></xref> instances one at a time, in order.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Fl.Event.Handling.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Fl.Event.Handling.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Fl.Event.Handling",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/fl-event-handling-extensions.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/fl-event-handling-extensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/fl-event-handling.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/fl-event-handling.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
